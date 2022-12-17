@@ -21,3 +21,7 @@ More information about me in my site, [https://redrat.com.br/](https://redrat.co
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joubertredrat" />
 </p>
+
+<!-- Matomo Image Tracker-->
+<img referrerpolicy="no-referrer-when-downgrade" src="https://analytics.redrat.tech/matomo.php?idsite=z2lEOmGzN3PwBvr&amp;rec=1" style="border:0" alt="" />
+<!-- End Matomo -->
